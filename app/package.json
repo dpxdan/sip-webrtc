@@ -1,6 +1,6 @@
 {
-  "name": "sipcaller",
-  "version": "0.1.0",
+  "name": "sip-webrtc",
+  "version": "5.1.1",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.2",
